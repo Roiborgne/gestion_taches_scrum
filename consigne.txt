@@ -1,0 +1,10 @@
+Users storie (us)
+
+1) create account (mdp>=8)
+2) login connexion
+
+Pour chaque US, créer une application WEB en respectant l'architecture MVC
+Pour chaque page (3) un header, un contenu et un footer
+
+header : un menu -> un accueil, créer compte, se connecter / si non connecté
+         un menu -> Vous êtes connecté en tant que pseudo / si connecté

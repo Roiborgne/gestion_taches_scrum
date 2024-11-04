@@ -8,7 +8,7 @@ class User
 {
     #[ORM\Id]
     #[ORM\Column(name: 'id_user', type: 'integer')]
-    #[ORM\GenereatedValue]
+    #[ORM\GeneratedValue]
     private int $id;
 
     #[ORM\Column(name: 'pseudo_user', type: 'string', length: 50)]
